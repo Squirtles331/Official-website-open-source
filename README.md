@@ -333,6 +333,14 @@ export const useExampleStore = defineStore('example', {
 
 本项目采用 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
 
+<<<<<<< HEAD
+=======
+
+## 预览地址
+
+- **网站**: [https://official-website-open-source-ks6h.vercel.app/]([https://your-domain.com](https://official-website-open-source-ks6h.vercel.app/))
+
+>>>>>>> f44c3fea6d767b921dbabe012a07ede55c1b57cb
 ## 🆘 常见问题
 
 ### Q: 如何更改主题颜色？
