@@ -2,7 +2,8 @@
 
 ## 🌐 在线预览
 
-[https://official-website-open-source-ks6h.vercel.app/](https://official-website-open-source-ks6h.vercel.app/)
+- **国外地址（需翻墙）**: [https://official-website-open-source.vercel.app/](https://official-website-open-source.vercel.app/)
+- **国内地址（无需翻墙）**: [https://www.sjadmin.email/](https://www.sjadmin.email/)
 
 ## 📖 项目介绍
 
@@ -338,7 +339,8 @@ export const useExampleStore = defineStore('example', {
 
 ## 预览地址
 
-- **网站**: [https://official-website-open-source-ks6h.vercel.app/]([https://your-domain.com](https://official-website-open-source-ks6h.vercel.app/))
+- **国外地址（需翻墙）**: [https://official-website-open-source.vercel.app/](https://official-website-open-source.vercel.app/)
+- **国内地址（无需翻墙）**: [https://www.sjadmin.email/](https://www.sjadmin.email/)
 
 >>>>>>> f44c3fea6d767b921dbabe012a07ede55c1b57cb
 ## 🆘 常见问题
