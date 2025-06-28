@@ -956,12 +956,12 @@ const solutions = [
 
 // 合作伙伴
 const partners = [
-  { id: 1, name: '阿里云', type: '云服务合作伙伴' },
-  { id: 2, name: '腾讯云', type: '技术合作伙伴' },
-  { id: 3, name: 'AWS', type: '全球合作伙伴' },
-  { id: 4, name: '微软', type: '战略合作伙伴' },
-  { id: 5, name: 'Google', type: '技术合作伙伴' },
-  { id: 6, name: '华为云', type: '云服务合作伙伴' },
+  { id: 1, name: 'ABCD云', type: '云服务合作伙伴' },
+  { id: 2, name: 'ABCD科技', type: '技术合作伙伴' },
+  { id: 3, name: 'ABCD全球', type: '全球合作伙伴' },
+  { id: 4, name: 'ABCD企业', type: '战略合作伙伴' },
+  { id: 5, name: 'ABCD技术', type: '技术合作伙伴' },
+  { id: 6, name: 'ABCD云服务', type: '云服务合作伙伴' },
 ]
 
 // FAQ数据
