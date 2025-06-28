@@ -1,5 +1,9 @@
 # 开源官网项目
 
+## 🌐 在线预览
+
+[https://official-website-open-source-ks6h.vercel.app/](https://official-website-open-source-ks6h.vercel.app/)
+
 ## 📖 项目介绍
 
 这是一个基于 **Nuxt.js 3** 和 **Vue.js 3** 的现代化开源官网解决方案。项目采用最新的前端技术栈，提供完整的企业官网功能，包括响应式设计、SEO优化、深色模式等特性。
@@ -59,33 +63,27 @@
 
 ### 安装步骤
 
-1. **克隆项目**
-```bash
-git clone https://github.com/your-username/open-source-website.git
-cd 官网
-```
-
-2. **安装依赖**
+1. **安装依赖**
 ```bash
 pnpm install
 ```
 
-3. **启动开发服务器**
+2. **启动开发服务器**
 ```bash
 pnpm dev
 ```
 
-4. **构建生产版本**
+3. **构建生产版本**
 ```bash
 pnpm build
 ```
 
-5. **预览生产版本**
+4. **预览生产版本**
 ```bash
 pnpm preview
 ```
 
-6. **生成静态站点**
+5. **生成静态站点**
 ```bash
 pnpm generate
 ```
@@ -334,16 +332,6 @@ export const useExampleStore = defineStore('example', {
 ## 📄 许可证
 
 本项目采用 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
-
-## 🙏 致谢
-
-感谢所有为这个项目做出贡献的开发者们！
-
-## 📞 联系方式
-
-- **Email**: your.email@example.com
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
-- **网站**: [https://your-domain.com](https://your-domain.com)
 
 ## 🆘 常见问题
 
