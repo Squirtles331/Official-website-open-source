@@ -1,0 +1,53 @@
+{
+	"name": "open-source-website",
+	"version": "1.0.0",
+	"description": "现代化的开源官网解决方案",
+	"author": "Your Name <your.email@example.com>",
+	"license": "MIT",
+	"keywords": [
+		"nuxt",
+		"vue3",
+		"website",
+		"template",
+		"scss",
+		"typescript",
+		"open-source"
+	],
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare",
+		"lint": "eslint .",
+		"lint:fix": "eslint . --fix",
+		"format": "prettier --write .",
+		"format:check": "prettier --check .",
+		"type-check": "nuxt typecheck"
+	},
+	"dependencies": {
+		"@headlessui/vue": "^1.7.23",
+		"@heroicons/vue": "^2.2.0",
+		"@nuxtjs/google-fonts": "^3.2.0",
+		"@nuxtjs/seo": "^3.1.0",
+		"@pinia/nuxt": "^0.11.1",
+		"@vueuse/nuxt": "^13.4.0",
+		"lucide-vue-next": "^0.523.0",
+		"nuxt": "^3.17.5",
+		"swiper": "^11.2.9",
+		"vue-router": "^4.5.1"
+	},
+	"devDependencies": {
+		"@nuxt/devtools": "^2.5.0",
+		"@types/node": "^24.0.4",
+		"@typescript-eslint/eslint-plugin": "^8.35.0",
+		"@typescript-eslint/parser": "^8.35.0",
+		"eslint": "^9.29.0",
+		"eslint-config-prettier": "^10.1.5",
+		"eslint-plugin-vue": "^10.2.0",
+		"prettier": "^3.6.1",
+		"sass": "^1.89.2",
+		"typescript": "^5.8.3",
+		"vue-tsc": "^2.2.10"
+	}
+}
