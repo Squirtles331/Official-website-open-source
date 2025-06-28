@@ -338,7 +338,7 @@ export const useExampleStore = defineStore('example', {
 
 ## 预览地址
 
-- **网站**: [https://your-domain.com]([https://your-domain.com](https://official-website-open-source-ks6h.vercel.app/))
+- **网站**: [https://official-website-open-source-ks6h.vercel.app/]([https://your-domain.com](https://official-website-open-source-ks6h.vercel.app/))
 
 ## 🆘 常见问题
 
