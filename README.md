@@ -335,15 +335,10 @@ export const useExampleStore = defineStore('example', {
 
 本项目采用 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
 
-## 🙏 致谢
 
-感谢所有为这个项目做出贡献的开发者们！
+## 预览地址
 
-## 📞 联系方式
-
-- **Email**: your.email@example.com
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
-- **网站**: [https://your-domain.com](https://your-domain.com)
+- **网站**: [https://your-domain.com]([https://your-domain.com](https://official-website-open-source-ks6h.vercel.app/))
 
 ## 🆘 常见问题
 
